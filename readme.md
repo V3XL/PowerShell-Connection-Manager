@@ -1,1 +1,1 @@
-test
+PowerShell Connection Manager (PSCM)
